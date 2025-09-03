@@ -1,0 +1,13 @@
+#Ignore VS Code directories
+**/.vscode/
+
+#Ignore VS Code workspace
+*code-workspace
+
+#Build outputs
+build/
+**/build/
+
+#Compiled binaries
+*.bin
+*.elf
